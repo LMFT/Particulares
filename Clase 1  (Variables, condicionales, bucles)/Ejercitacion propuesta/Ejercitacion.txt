@@ -1,0 +1,17 @@
+Utilizando el proyecto que vimos como punto de partida:
+
+Crear un nuevo proyecto en Windows Forms que contenga:
+
+2 textbox
+4 botones
+
+Cada uno de los botones debe realizar una de las cuatro operaciones básicas (sumar, restar, multiplicar, dividir)
+
+Mostrar con un mensaje el resultado de la operacion
+
+Cosas a considerar:
+
+Verificar que los valores sean válidos para cada operacion
+
+Para poder hacer una cuenta, ambos texbox tienen que tener valores que sean numeros. Si un textbox esta vacio o tiene texto que no
+sean numeros, mostrar un mensaje informando que se produjo un error
