@@ -16,3 +16,21 @@ C:\Users\lucas\Desktop\Particulares\Dante (VB)\Clase 1\Clase 1\obj\Debug\net5.0-
 C:\Users\lucas\Desktop\Particulares\Dante (VB)\Clase 1\Clase 1\obj\Debug\net5.0-windows\ref\Clase 1.dll
 C:\Users\lucas\Desktop\Particulares\Dante (VB)\Clase 1\Clase 1\obj\Debug\net5.0-windows\Clase 1.pdb
 C:\Users\lucas\Desktop\Particulares\Dante (VB)\Clase 1\Clase 1\obj\Debug\net5.0-windows\Clase 1.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\bin\Debug\net5.0-windows\Clase 1.exe
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\bin\Debug\net5.0-windows\Clase 1.deps.json
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\bin\Debug\net5.0-windows\Clase 1.runtimeconfig.json
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\bin\Debug\net5.0-windows\Clase 1.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\bin\Debug\net5.0-windows\Clase 1.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\bin\Debug\net5.0-windows\ref\Clase 1.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\bin\Debug\net5.0-windows\Clase 1.pdb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\Clase 1.vbprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\Clase_1.Form1.resources
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\Clase 1.vbproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\Clase 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\Clase 1.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\Clase 1.AssemblyInfo.vb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\Clase 1.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\Clase 1.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\ref\Clase 1.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\Clase 1.pdb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 1  (Variables, condicionales, bucles)\Clase 1\obj\Debug\net5.0-windows\Clase 1.genruntimeconfig.cache

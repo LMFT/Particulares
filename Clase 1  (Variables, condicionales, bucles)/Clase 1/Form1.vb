@@ -67,20 +67,29 @@
         Dim dias As Integer
         Select Case mes
             Case "Enero"
-            Case "Marzo"
-            Case "Mayo"
-            Case "Julio"
-            Case "Agosto"
-            Case "Octubre"
-            Case "Diciembre"
                 dias = 31
-            Case "Abril"
-            Case "Junio"
-            Case "Septiembre"
-            Case "Noviembre"
-                dias = 30
             Case "Febrero"
                 dias = 28
+            Case "Marzo"
+                dias = 31
+            Case "Abril"
+                dias = 30
+            Case "Mayo"
+                dias = 31
+            Case "Junio"
+                dias = 30
+            Case "Julio"
+                dias = 31
+            Case "Agosto"
+                dias = 31
+            Case "Septiembre"
+                dias = 30
+            Case "Octubre"
+                dias = 31
+            Case "Noviembre"
+                dias = 30
+            Case "Diciembre"
+                dias = 31
         End Select
 
         MsgBox($"El mes {mes} tiene {dias} dias")
