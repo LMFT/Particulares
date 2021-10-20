@@ -1,0 +1,16 @@
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\bin\Debug\net5.0\Clase 2 - Arreglos.exe
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\bin\Debug\net5.0\Clase 2 - Arreglos.deps.json
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\bin\Debug\net5.0\Clase 2 - Arreglos.runtimeconfig.json
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\bin\Debug\net5.0\Clase 2 - Arreglos.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\bin\Debug\net5.0\Clase 2 - Arreglos.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\bin\Debug\net5.0\ref\Clase 2 - Arreglos.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\bin\Debug\net5.0\Clase 2 - Arreglos.pdb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\obj\Debug\net5.0\Clase 2 - Arreglos.vbprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\obj\Debug\net5.0\Clase 2 - Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\obj\Debug\net5.0\Clase 2 - Arreglos.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\obj\Debug\net5.0\Clase 2 - Arreglos.AssemblyInfo.vb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\obj\Debug\net5.0\Clase 2 - Arreglos.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\obj\Debug\net5.0\Clase 2 - Arreglos.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\obj\Debug\net5.0\ref\Clase 2 - Arreglos.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\obj\Debug\net5.0\Clase 2 - Arreglos.pdb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 2 (Arreglos)\Clase 2 - Arreglos\Clase 2 - Arreglos\obj\Debug\net5.0\Clase 2 - Arreglos.genruntimeconfig.cache

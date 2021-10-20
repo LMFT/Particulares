@@ -1,4 +1,9 @@
 ﻿Public Class Form1
+    Dim primerNumero As Integer
+    Dim segundoNumero As Integer
+    ' * Multiplicar
+    ' / Dividir
+
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
         'Tipos de dato:
@@ -145,11 +150,15 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         'ByRef = Pasar como referencia
-        Dim primerNumero As Integer
-        Dim segundoNumero As Integer
+
+
         'And = Y. Solo se entra al if si se cumplen las dos condiciones
         If (Integer.TryParse(txtPrimerNumero.Text, primerNumero) And Integer.TryParse(txtSegundoNumero.Text, segundoNumero)) Then
             MsgBox($"La suma de los dos numeros es {primerNumero + segundoNumero}")
         End If
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Dim resultado = primerNumero - segundoNumero
     End Sub
 End Class
