@@ -1,0 +1,52 @@
+Clase 1
+Ejercicio 1-1: Ingresar dos números enteros, sumarlos y mostrar el resultado.
+
+Ejercicio 1-2:ingresar 3 números y mostrar el mayor de los tres.
+
+Ejercicio 1-3: ingresar 3 números y mostrar el número del medio, sólo si existe. En caso de que no exista también informarlo.
+Ejemplo:
+1   5   3    el 3 es del medio
+5   1   5    no hay numero del medio
+3   5   1    el 3 es del medio
+3   1   5    el 3 es del medio
+5   3   1    el 3 es del medio
+1   5   1    no hay numero del medio
+
+
+Clase 2
+
+
+Ejercicio 2-1: Ingresar 5 números enteros calcular y mostrar el promedio de los números. Probar la aplicación con distintos 
+valores.
+Ejemplo 1:  3 - 5 - 7 - 9 - 1
+Ejemplo 2:  2 - 1 - 8 -1 - 2
+
+Ejercicio 2-2:
+Ingresar 10 números enteros, distintos de cero. Mostrar:
+- Cantidad de pares e impares.
+- El menor número ingresado.
+- De los pares el mayor número ingresado.
+- Suma de los positivos.
+- Producto de los negativos.
+
+Ejercicio 2-3:
+Debemos alquilar el servicio de transporte para llegar a Mar del Plata con un grupo de personas, de cada persona debemos 
+obtener los siguientes datos:
+
+- número de cliente,
+- estado civil ('s' para soltero", 'c' para casado o 'v' viudo),
+- edad( solo mayores de edad, más de 17),
+- temperatura corporal (validar por favor)
+- sexo ('f' para femenino, 'm' para masculino, 'o' para no binario).
+
+NOTA: el precio por pasajero es de $600.
+
+Se debe informar (solo si corresponde):
+a) La cantidad de personas con estado "viudo" de más de 60 años.
+b) el número de cliente y edad de la mujer soltera más joven.
+c) cuánto sale el viaje total sin descuento.
+d) si hay más del 50% de los pasajeros que tiene más de 60 años , el precio final tiene un descuento del 25%, que solo mostramos 
+si corresponde.
+
+
+
