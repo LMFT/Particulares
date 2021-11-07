@@ -1,0 +1,18 @@
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\bin\Debug\net5.0\Ejercicio de Ejemplo.exe
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\bin\Debug\net5.0\Ejercicio de Ejemplo.deps.json
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\bin\Debug\net5.0\Ejercicio de Ejemplo.runtimeconfig.json
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\bin\Debug\net5.0\Ejercicio de Ejemplo.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\bin\Debug\net5.0\Ejercicio de Ejemplo.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\bin\Debug\net5.0\ref\Ejercicio de Ejemplo.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\bin\Debug\net5.0\Ejercicio de Ejemplo.pdb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\bin\Debug\net5.0\Entidades.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\bin\Debug\net5.0\Entidades.pdb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\obj\Debug\net5.0\Ejercicio de Ejemplo.vbproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\obj\Debug\net5.0\Ejercicio de Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\obj\Debug\net5.0\Ejercicio de Ejemplo.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\obj\Debug\net5.0\Ejercicio de Ejemplo.AssemblyInfo.vb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\obj\Debug\net5.0\Ejercicio de Ejemplo.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\obj\Debug\net5.0\Ejercicio de Ejemplo.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\obj\Debug\net5.0\ref\Ejercicio de Ejemplo.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\obj\Debug\net5.0\Ejercicio de Ejemplo.pdb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 4 (Programacion orientada a objetos)\Ejercicio de Ejemplo\Ejercicio de Ejemplo\obj\Debug\net5.0\Ejercicio de Ejemplo.genruntimeconfig.cache
