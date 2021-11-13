@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\bin\Debug\net5.0\Entidades.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\bin\Debug\net5.0\Entidades.pdb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\obj\Debug\net5.0\Entidades.vbproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\obj\Debug\net5.0\Entidades.AssemblyInfo.vb
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\obj\Debug\net5.0\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\obj\Debug\net5.0\Entidades.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\lucas\Desktop\Particulares\Particulares.Dante\Clase 5 (Herencia y polimorfismo)\Ckase 5\ClassLibrary1\obj\Debug\net5.0\Entidades.pdb
